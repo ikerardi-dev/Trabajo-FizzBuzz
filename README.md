@@ -35,3 +35,5 @@ Scenario: El dato proporcionado no es un número
     Given que proporciono el valor "hola"
     When ejecuto la función FizzBuzz
     Then debe lanzarse un error indicando que el dato no es un número
+    
+<img width="1920" height="1128" alt="prueba-vitest-fizzbuzz" src="https://github.com/user-attachments/assets/92414fe8-2c38-411d-a199-66bab1e4facd" />
